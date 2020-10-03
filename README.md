@@ -29,5 +29,5 @@ Flix Part 2
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/eYsv1jnQiV" width=250><br>
+<img src="http://g.recordit.co/eYsv1jnQiV.gif" width=250><br>
 
